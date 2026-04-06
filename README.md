@@ -139,12 +139,17 @@ const sankalp = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=350"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sank2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Sank2001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sank2001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
