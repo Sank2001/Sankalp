@@ -135,26 +135,19 @@ const sankalp = {
 
 ---
 
-name: Generate GitHub Profile Summary Cards
+## 📊 GitHub Stats
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # daily
-  workflow_dispatch:
+<div align="center">
 
-permissions:
-  contents: write
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: Sank2001
-          THEME: tokyonight
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sank2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
 ---
 
 ## 🏆 Achievements
