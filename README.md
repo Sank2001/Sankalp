@@ -10,14 +10,14 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-gautam-404a75268/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sank2001/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanklp2726@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sankalp-gautam&label=Profile+Views&color=4FC3F7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sank2001&label=Profile+Views&color=4FC3F7&style=flat-square)
 
 </div>
 
@@ -139,12 +139,12 @@ const sankalp = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankalp-gautam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-gautam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp-gautam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sank2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
