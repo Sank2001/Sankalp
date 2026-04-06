@@ -139,12 +139,12 @@ const sankalp = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
     height="180"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
     height="180"
     alt="Top languages"
   />
@@ -156,7 +156,6 @@ const sankalp = {
     alt="GitHub streak"
   />
 </p>
-
 ---
 
 ## 🏆 Achievements
