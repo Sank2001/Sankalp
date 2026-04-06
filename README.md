@@ -137,16 +137,25 @@ const sankalp = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top languages"
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sank2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sank2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sank2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Sank2001&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 ---
 
